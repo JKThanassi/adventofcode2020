@@ -24,6 +24,7 @@ dependencies:
 - containers > 0.6
 - regex-tdfa
 - vector
+- split
 
 library:
   source-dirs: src
